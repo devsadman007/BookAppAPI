@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace BookAppAPI.Controllers
+namespace BookAppAPI.APIs
 {
     [Route("api/[controller]")]
     [ApiController]
